@@ -1,3 +1,3 @@
 My first project
 
-Author: Asare
+Author: Augustine
